@@ -178,3 +178,4 @@ def createCustomer(request):
 
     return render(request, 'accounts/create_customer.html', name)
 '''
+#end
