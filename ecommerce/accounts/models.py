@@ -1,4 +1,4 @@
-#Here are my mode
+#Here are my models
 from django.db import models
 
 
